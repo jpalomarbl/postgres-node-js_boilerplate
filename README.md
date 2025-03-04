@@ -1,7 +1,7 @@
 # Simple PostgreSQL + Node + JavaScript backend
 Hey there! I made this small project to practise making a backend from scratch on using PostgreSQL (the main folder in my computer for this project is literally called *postgretest2final*). This means that it is very basic and can be full of mistakes. I plan on improving it on the long run.
 
-I got the information I used to make this boilerplate from [Beaufort Tek's](https://www.youtube.com/@AustinBeaufort) video called [*Build a Rest Api with NodeJS (JavaScript), Express, and PostgreSQL*](https://www.youtube.com/watch?v=DihOP19LQdg), Stack Overflow, ChatGPT and God itself. I really recommend Beaufort Tek's if you want a step by step guide.
+I got the information I used to make this boilerplate from [Beaufort Tek's](https://www.youtube.com/@AustinBeaufort) video called [*Build a Rest Api with NodeJS (JavaScript), Express, and PostgreSQL*](https://www.youtube.com/watch?v=DihOP19LQdg), Stack Overflow, ChatGPT and God itself. I really recommend Beaufort Tek's video if you want a step by step guide.
 
 ## What can you expect from this repo?
 A starting point if you need a basic PostgreSQL backend. It has one table, one of each types of request you can make to a REST API, and some error handling.
