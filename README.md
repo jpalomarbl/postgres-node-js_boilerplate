@@ -31,7 +31,16 @@ git clone git@github.com:jpalomarbl/postgres-node-js_boilerplate.git
 npm install
 ```
 
-3. Have fun! Or at least all the fun you can have while coding!
+3. Start the server by running:
+
+```shell
+npm run start
+
+# If you set up your environmental variables in the .env file run this instead
+npm run start-env
+```
+
+4. Have fun! Or at least all the fun you can have while coding!
 
 ## Full guide
 Here, we're gonna explain the following:
