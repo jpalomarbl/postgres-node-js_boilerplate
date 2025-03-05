@@ -351,13 +351,13 @@ export default router;
 For example, if we wanted to add a new user we should run the following to start our server:
 
 ```shell
-node server.js
+npm run start
 ```
 
 Or, if you set you postgres credentials in .env
 
 ```shell
-node --env-file=.env server.js
+npm run start-env
 ```
 
 Then, we could go to Postman or our browser and go to `http://localhost:3000/api/v1/users/John&johnDoe@email.com`.
