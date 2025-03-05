@@ -1,14 +1,15 @@
 {
-  "name": "postgrestest",
+  "name": "postgres-node-js_boilerplate",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "start-env": "node --env-file=.env server.js"
   },
-  "author": "",
+  "author": "Jaime Simeón Palomar Blumenthal",
   "license": "ISC",
-  "description": "",
+  "description": "A very simple PostgreSQL + Node + JS Backend for you to remix and make your own out of <3",
   "dependencies": {
     "express": "^4.21.2",
     "pg": "^8.13.3"
